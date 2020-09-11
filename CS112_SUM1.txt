@@ -1,0 +1,12 @@
+Ngôn ngữ: Python
+Điểm: 
+- Quá trình: 20%
+- Thực hành: 30%
+- Final exam:50%
+---
+Critical thinking
+Computational thinking
+---
+Dựa vào độ phức tạp lưu trữ và độ phức tạp tính toán của mỗi giải thuật để lựa chọn giải thuật phù hợp với bài toán cần giải quyết.
+---
+
