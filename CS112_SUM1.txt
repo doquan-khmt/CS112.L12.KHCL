@@ -2,7 +2,9 @@ Ngôn ngữ: Python
 Điểm: 
 - Quá trình: 20%
 - Thực hành: 30%
-- Final exam:50%
+- Final exam:50% (Báo cáo seminar):
++ 5 điểm: điều khiển buổi báo cáo của mình
++ 5 điểm: tham gia vào các buổi seminar của các nhóm khác
 ---
 Critical thinking
 Computational thinking
