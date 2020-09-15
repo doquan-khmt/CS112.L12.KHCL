@@ -25,7 +25,7 @@ Sau nhiều ngày tất bật chạy deadline không thể đến siêu thị, h
     - Nhóm 1: Trứng, cà chua, rau thơm
     - Nhóm 2: Khổ qua, trứng
     - Nhóm 3: Khoai tây
-- Pattern recognition: Sau khi chia nguyên liệu theo nhóm, A thực sự rất vui vì có thể tìm được công thức nấu ăn tận 2 món (Canh cà chua và khổ qua xào) mặc dù nguyên liệu có một xíu nhưng A có thể dùng trứng thay thế.
+- Pattern recognition: Sau khi chia nguyên liệu theo nhóm, A thực sự rất vui vì có thể tìm được công thức nấu ăn tận 2 món (Canh cà chua và khổ qua xào) mặc dù nguyên liệu có khác một xíu nhưng A có thể dùng trứng thay thế.
 - Abstraction: Theo công thức nấu ăn, A quyết định giữ lại nguyên liệu nhóm 1 và nhóm 2, còn nhóm 3 thì A cất lại tủ lạnh.
 - Algorithm designed: Theo như công thức, canh cà chua sẽ cần thịt thì A thay nó thành trứng, và món khổ qua xào cũng tương tự.
 
