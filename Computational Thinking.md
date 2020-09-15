@@ -3,7 +3,6 @@
 - Là một tập hợp các phương pháp phân tích và giải quyết vấn đề một cách dễ dàng trên máy tính.
 ---
 ## Tư duy máy tính dùng như thế nào? (How?)
-![Text Image](https://www.digitaltechnologieshub.edu.au/images/default-source/default-album/bbc-comp-thinking.jpg)
 ### Gồm 4 bước cơ bản:
 - Decomposition: phân tách bài toán thành nhiều bài toán nhỏ đơn giản hơn để giải quyết.
 - Pattern recognition: Tìm điểm tương đồng của bài toán đang cần xử lý với các bài toán đã từng giải quyết trước đó để đưa ra các giải thuật/kỹ thuật phù hợp với bài toán.
