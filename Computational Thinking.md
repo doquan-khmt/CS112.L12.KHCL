@@ -3,6 +3,7 @@
 - Là một tập hợp các phương pháp phân tích và giải quyết vấn đề một cách dễ dàng trên máy tính.
 ---
 ## Tư duy máy tính dùng như thế nào? (How?)
+![Image](https://bam.files.bbci.co.uk/bam/live/content/zg6bgk7/large)
 ### Gồm 4 bước cơ bản:
 - Decomposition: phân tách bài toán thành nhiều bài toán nhỏ đơn giản hơn để giải quyết.
 - Pattern recognition: Tìm điểm tương đồng của bài toán đang cần xử lý với các bài toán đã từng giải quyết trước đó để đưa ra các giải thuật/kỹ thuật phù hợp với bài toán.
@@ -17,7 +18,7 @@
 - Nó giúp con người suy nghĩ đơn giản và logic hóa các vấn đề phức tạp thành các vấn đề đơn giản để giải quyết.
 ---
 ## Ví dụ minh họa:
-Sau nhiều ngày tất bật chạy deadline không thể đến siêu thị, hiện tại trong nhà A chỉ còn 2 quả trứng gà, 1 cái cà chua, chút rau thơm, 1 trái khổ qua, 1 củ khoai tây. A có một cuốn công thức nấu ăn gia truyền nhưng không có công thức nào có thể nấu từng đó nguyên liệu. A đang rất chi là đau đầu không biết nên nấu món gì. Nhưng nhớ đến bài học thầy vừa dạy, Tư duy máy tính (COMPUTATIONAL THINKING), A liền thử vận dụng.
+Sau nhiều ngày tất bật chạy deadline không thể đến siêu thị, hiện tại trong nhà A chỉ còn 2 quả trứng gà, 1 trái cà chua, chút rau thơm, 1 trái khổ qua, 1 củ khoai tây. A có một cuốn công thức nấu ăn gia truyền nhưng không có công thức nào có thể nấu từng đó nguyên liệu. A đang rất chi là đau đầu không biết nên nấu món gì. Nhưng nhớ đến bài học thầy vừa dạy, Tư duy máy tính (COMPUTATIONAL THINKING), A liền thử vận dụng.
 
 - Abstraction: Không có công thức nào có thể nấu các nguyên liệu đó thành 1 món.
 - Decomposition: Chia các nguyên liệu ra riêng biệt
